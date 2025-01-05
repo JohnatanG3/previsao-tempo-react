@@ -2,9 +2,9 @@
 
 Este é um projeto de previsão do tempo que mostra as condições meteorológicas atuais e a previsão para os próximos 5 dias de uma cidade informada pelo usuário. O projeto é construído com React e utiliza a API OpenWeatherMap para obter os dados meteorológicos.
 
-## Imagem do Projeto
+## 📸 Demonstração
 
-![](https://i.ibb.co/6g3dSF1/Sem-t-tulo.png)
+Você pode visualizar o site [aqui](https://johnatang3.github.io/previsao-tempo-react/).
 
 ## Funcionalidades
 

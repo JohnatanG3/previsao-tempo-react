@@ -1,4 +1,4 @@
-.weather-container{
+.weather-container {
     background-color: rgba(255, 255, 255, 0.8);
     border-radius: 10px;
 
@@ -32,3 +32,8 @@
     padding: 10px;
 }
 
+@media (max-width: 750px) {
+    .weather-list {
+        flex-direction: column;
+    }
+}

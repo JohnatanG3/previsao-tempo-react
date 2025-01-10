@@ -34,6 +34,10 @@
 
 @media (max-width: 750px) {
     .weather-list {
-        flex-direction: column;
+        flex-direction: column;        
+    }
+
+    .weather-item {
+        width: 100%;
     }
 }
